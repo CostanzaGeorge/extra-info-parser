@@ -1,0 +1,11 @@
+[package]
+name = "extra-info-parser"
+version = "0.1.0"
+authors = ["G. Costanza <jnz@riseup.net>"]
+license = "CC0-1.0"
+repository = "https://github.com/costanzageorge/extra-info-parser"
+keywords = ["tor", "bridge", "relay", "descriptor", "parser"]
+
+[dependencies]
+chrono = "0.4.0"
+nom = "^3.2"
